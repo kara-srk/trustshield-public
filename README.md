@@ -20,5 +20,5 @@ See [DISCLAIMER.md](DISCLAIMER.md)
 
 ---
 **Follow & Contact**
-- Twitter/X: [@YourHandle](https://twitter.com/YourHandle)
-- Email: you@proton.me
+- Twitter/X: @4SerkanKara
+- Email: sirpost@hotmail.com
